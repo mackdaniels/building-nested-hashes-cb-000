@@ -18,4 +18,5 @@ def first_challenge
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
+ }
 end
